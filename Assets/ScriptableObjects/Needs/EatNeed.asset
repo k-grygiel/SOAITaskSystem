@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04fd7bde93e88764fac8992c419812e3, type: 3}
+  m_Name: EatNeed
+  m_EditorClassIdentifier: 
+  <Position>k__BackingField: {fileID: 11400000, guid: 55a268bce6424a14c810ef5ac392ca3f, type: 2}
+  <Actions>k__BackingField:
+  - {fileID: 11400000, guid: 46db1ea83121a324089116ce2a261252, type: 2}
+  - {fileID: 11400000, guid: 9153486b3dfdf2e40b86da0ec3bdce7d, type: 2}
+  - {fileID: 11400000, guid: 573bdd3de97b40a47ba3f8d9c090add2, type: 2}

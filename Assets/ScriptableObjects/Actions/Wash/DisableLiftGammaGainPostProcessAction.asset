@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39ffcb7d4b3b89f43a54130ccfa553a3, type: 3}
+  m_Name: DisableLiftGammaGainPostProcessAction
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Disable post process
+  globalPostProcessing: {fileID: 11400000, guid: 4f485884ed8607240bcf081b07e7a681, type: 2}
+  activate: 0
